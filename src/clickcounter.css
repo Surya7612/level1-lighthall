@@ -11,7 +11,7 @@
 }
 
 body{
-  background-image: url("/Users/surya/Desktop/Lighthall/clickcounter-lighthall/clickcounter/public/earthbg.jpg");
+  background-image: url("/public/earthbg.jpg");
   background-size: cover;
   background-position: center;
 }
